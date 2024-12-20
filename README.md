@@ -1,0 +1,1 @@
+My practice for API testing using Frisby.js and Jest
